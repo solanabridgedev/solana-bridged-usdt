@@ -37,3 +37,5 @@ This project is not affiliated with Tether Limited or any official USDT issuer.
 The official project website provides general information, documentation references, and public links related to the token.
 
 https://solanabridgedusdt.com
+## Token Supply & Distribution
+The token supply is fixed at creation. No further minting is possible as mint authority has been revoked. No vesting, emissions, or scheduled releases exist.
