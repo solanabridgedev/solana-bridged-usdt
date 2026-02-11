@@ -1,5 +1,4 @@
-# Solana USDT Reference Token
-
+# Solana USDT-Style Reference Token
 Solana USDT Reference Token is an SPL token deployed on the Solana blockchain for technical demonstration and integration testing purposes.
 
 ## Overview
@@ -32,7 +31,7 @@ The token is designed solely as a reference asset for:
 ## Disclaimer
 This token is NOT issued, backed, or affiliated with Tether Limited.  
 It does NOT represent official USDT and should not be considered a stablecoin or a financial instrument.
-
+This project is not affiliated with Tether Limited or any official USDT issuer.
 ## Project Website
 
 The official project website provides general information, documentation references, and public links related to the token.
